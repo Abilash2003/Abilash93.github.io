@@ -1,0 +1,37 @@
+code
+{
+background: #73bcec;
+color: #fff;
+font-family: times;
+font-size: 2rem;
+border: 2px solid #060bfa;
+display: block;
+text-align: center;
+}
+
+section
+{
+float: left;
+width: 30%;
+height: 400px;
+border: 2px solid #060bfa;
+border-radius: 6px;
+color: black;
+background-color: gold;
+text-align: center;
+}
+
+header, section
+{
+margin: 0 1.5% 24px 1.5%;
+}
+
+footer
+{
+clear: both;
+}
+.p1
+{
+background-color: #0822F7 ;
+color: gold;
+}
